@@ -14,7 +14,7 @@ movies in a single click.
 
 Check out [FRONTEND LIVE DEMO]() here!!
 
-Check out [API LIVE DEMO]() here!!
+Check out [API LIVE DEMO](https://cinema-paradise-backend.bbah01.repl.co/) here!!
 
 ## Tech used
 
